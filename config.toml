@@ -1,0 +1,31 @@
+baseURL = "http://example.org/"
+title = "refleksije"
+tags = [ "blog" ]
+languageCode = "sl"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+
+
+[Params]
+    author = "Kristjan voje"
+    description = "Študent."
+    logoBig = "/images/dragon-logo.png"
+    logoSmall = "/images/dragon-logo.png"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/osprey.png"
+    email = "greenkiweez1@gmail.com"
+    googleTagManger = ""
+    highlightJS = true
+    copyright = true
+    credit = true
+
+[[menu.main]]
+    name = "Blog"
+    url  = "/#blog"
+    weight = 1
+[[menu.main]]
+    name = "Kontakt"
+    url  = "/#kontakt"
+    weight = 2
