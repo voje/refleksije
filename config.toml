@@ -1,4 +1,4 @@
-baseURL = "./"
+baseUrl = "https://voje.github.io/refleksije/"
 title = "refleksije"
 tags = [ "blog" ]
 languageCode = "sl"
