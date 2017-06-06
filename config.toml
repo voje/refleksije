@@ -6,6 +6,7 @@ config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
 googleAnalytics = ""
+publishDir = "docs"
 
 
 [Params]
@@ -27,5 +28,5 @@ googleAnalytics = ""
     weight = 1
 [[menu.main]]
     name = "Kontakt"
-    url  = "/#kontakt"
+    url  = "/#contact"
     weight = 2
