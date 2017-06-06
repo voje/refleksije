@@ -3,7 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://voje.github.io/refleksije/post/helloworld/</loc>
+    <lastmod>2017-06-06T22:19:55+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://voje.github.io/refleksije/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://voje.github.io/refleksije/post/</loc>
+    <lastmod>2017-06-06T22:19:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14,6 +25,7 @@
   
   <url>
     <loc>https://voje.github.io/refleksije/</loc>
+    <lastmod>2017-06-06T22:19:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
