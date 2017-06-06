@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://voje.github.io/refleksije/docs/categories/</loc>
+    <loc>https://voje.github.io/refleksije/docs/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://voje.github.io/refleksije/docs/tags/</loc>
+    <loc>https://voje.github.io/refleksije/docs/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://voje.github.io/refleksije/docs/</loc>
+    <loc>https://voje.github.io/refleksije/docs/</loc>
     <priority>0</priority>
   </url>
   
