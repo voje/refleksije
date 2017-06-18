@@ -17,5 +17,5 @@ Nisem imel pojma, kaj prodajam. Nekaj v zvezi z muzikali, z izvedbo na grajskem 
 
 Nahajamo se dobre 4 mesece pred izvedbo koncerta. Jaz sem začel raziskovati uradno plat dogodka, dirigent pa se je šel dogovarjat za prostor ter oder. Imeli smo začetni sestanek ter postavili datum. Za točno uro naslov in temo smo se strinjali, da je časa še čez glavo. 
 
-![plenty of time](../images/plenty_time.jpg)
+![plenty of time](images/plenty_time.jpg)
 
