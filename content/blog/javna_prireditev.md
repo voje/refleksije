@@ -67,7 +67,7 @@ Toliko o ljudeh. Te so še kolikor toliko obvladljivi, medtem ko narava ni.
 ## Vreme in ostali zunanji uplivi
 Tu so roke zares zvezane. Če se odločiš imeti koncert na odprtem, boš lep čas pobožno sedel pred vremensko napovedjo in upal, da meteorologi vedo, kaj delajo.  
 
-![weather forecast](images/weather_forecast.jpg)  
+![weather forecast](images/blog/weather_forecast.jpg)  
 
 V našem primeru je bila vremenska napoved krasna. Kratka popoldanska ploha in suh večer.  
 Dan prej se je identična napoved uresničila skoraj do ure natančno, na dan koncerta pa je vreme s svojo zlonamerno prisotnostjo spominjalo na roman Stephena Kinga. Za razliko od Kingovih romanov, se je večer k sreči končal brez drame.  
@@ -80,7 +80,7 @@ Preizkusil sem tudi nekaj metod, ki so se izkazale za koristne.
 ## Backwards planning  
 Slišal sem za metodo, ki jo za svoje operacije uporablja ameriška vojska. Stvar mora biti kar vodotesna, zato sem jo preizkusil na našem projektu. Imenuje se backwards planning (vzvratno planiranje) in deluje tako kot se imenuje. Planiraš po časovnem traku nazaj.  
 
-![backwards planning](images/blog/ackwards_planning.png)
+![backwards planning](images/blog/backwards_planning.png)
 
 Usedel sem se v udoben naslanjač, zaprl oči ter si predstavljal ključni cilj: večer koncerta. Poskusil sem si zamisliti vse stvari, ki jih bomo potrebovali za izvedbo koncerta ter jih postavli nazaj v čas kot manjše cilje. Nato sem šel preko teh manjših ciljev ter jih razdrobil na še manjše cilje. To sem ponavljal, dokler ni bil projekt sestavljen iz najpreprostejših možnih nalog, smiselno razporejenih po časovnici.  
 Morda mi je ta metoda koristila bolj zato, da nisem bil anskiozen (strah je sam po sebi ugibanje o neskončnih možnostih prihodnih dogodkov), vsekakor pa sem pokril celoten projekt in sem si s časovnico ogromno pomagal vse do koncerta. Zadnji teden so jo začeli uporabljati celo ostali člani ekipe.  
