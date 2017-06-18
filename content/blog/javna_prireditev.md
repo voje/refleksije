@@ -17,29 +17,29 @@ Nisem imel pojma, kaj prodajam. Nekaj v zvezi z muzikali, z izvedbo na grajskem 
 
 Nahajamo se dobre 4 mesece pred izvedbo koncerta. Jaz sem začel raziskovati uradno plat dogodka, dirigent pa se je šel dogovarjat za prostor ter oder. Imeli smo začetni sestanek ter postavili datum. Za točno uro naslov in temo smo se strinjali, da je časa še čez glavo. 
 
-![plenty of time](images/plenty_time.jpg)
+![plenty of time](images/blog/plenty_time.jpg)
 (Velik del društva sestavljamo študentje...)
 
 ## Časa vedno zmanjka  
 Ne glede na to, kako dobro se organiziraš, na koncu si vedno želiš, da bi imel še nekaj dni časa. To pravilo je še 10x poudarjeno, če imaš s strani države postavljene roke, ki se jih moraš absolutno držati.  
 Sledi skoraj preprosta smernica: začni dovolj zgodaj.  
 
-Za izpeljavo koncerta je potrebnih nekaj predpriprav, ki jih je dobro izvesti v določenem zaporedju:
-1.  naredi finančno simulacijo, da vidiš, ali se projekt sploh splača,
-2.  določi __ime__ prireditve, točen __datum__ in __kraj__,
-3.  določi temo prireditve:
-     * dovolj informacij, da grafični oblikovalec izdela reklamni material,
-     * privlačno napovedno besedilo, ki ga lahko posredujemo revijam,
-4.  grafični oblikovalec naj pripravi grafično podobo koncerta,
-5.  ureditev prodaje kart
-6.  uradna prijava dogodka
-7.  zdaj ko imamo __dovoljenje za prireditev__, __grafično podobo__, __napovedno besedilo__ ter __urejeno prodajo kart__, lahko zver spustimo v javnost.  
+Za izpeljavo koncerta je potrebnih nekaj predpriprav, ki jih je dobro izvesti v določenem zaporedju:  
+1. naredi finančno simulacijo, da vidiš, ali se projekt sploh splača,
+2. določi __ime__ prireditve, točen __datum__ in __kraj__,
+3. določi temo prireditve:
+  * dovolj informacij, da grafični oblikovalec izdela reklamni material,
+  * privlačno napovedno besedilo, ki ga lahko posredujemo revijam,
+4. grafični oblikovalec naj pripravi grafično podobo koncerta,
+5. ureditev prodaje kart
+6. uradna prijava dogodka
+7. zdaj ko imamo __dovoljenje za prireditev__, __grafično podobo__, __napovedno besedilo__ ter __urejeno prodajo kart__, lahko zver spustimo v javnost.  
 
 Za koncert se mora seveda vzporedno dogajati še cel kup stvari, kot na primer vaje, posodabljanje finančnega stanja, podrobno dogovarjanje z zunanjimi izvajalci (več o tej zadnji točki...).  
 
 Pri organizaciji koncerta se nismo držali zgornjega recepta in smo po nepotrebnem izgubljali živce. Tu bi predlagal sebi ali bodočemu organizatorju: kupi si palico. 
 
-![theodore roosevelt](images/theodore_roosevelt.jpg)
+![theodore roosevelt](images/blog/theodore_roosevelt.jpg)
 
 V veliki organizacijski skupini kot je naša, se odgovornost rada porazdeli (beri: poizgubi). Ampak nenazadnje je na uradnem dokumentu napisano le eno ime in glava, ki prapada temu imenu bo v primeru kakršnih koli bedarij letela prva.  
 Potemtakem bi lahko rekli, da ima lastnik zgoraj omenjene glave pravico - nay, dolžnost, da ostale člane ekipe opozarja o neizbežnosti časa in skrbi za zvišano raven njihovega adrenalina dolgo preden bi zanjo poskrbela neposredna bližina dogodka samega.  
@@ -52,7 +52,7 @@ Toliko o času. Rad bi rekel še eno na temo ljudi.
 ## Ljudem je vseeno  
 Govorim o že prej omenjenih zunanjih izvajalcih. Govorim o osebah, ki so nam pomagale zato, ker so bile za to plačane. Nočem jih narisati kot grupa zlikovcev, ki bi delovali proti našim trudom (čeprav bi se našlo kakšo ime...), hočem povedati le to, da tako kot se je odgovornost “porazdelila” že snotraj naše ekipe, do zunanjih izvajalcev sploh ne pride.  
 Moram povedati, da sem bil z večino zunanjih sodelavcev kar zadovoljen. Prijetni ljudje. Tekom projekta pa sem opazil, da se je pametno držati tega pravila:  
-__vsak dogovor preveri trikrat__:
+__vsak dogovor preveri trikrat__:  
 *   prvič, ko se pogovarjaš o možnostih in izbereš eno od idej,
 *  drugič, kmalu za tem, da preveriš, da sogovornik ni slučajno pozabil na to idejo,
 *  tretjič, ko se bliža dogodek (zato, ker ziher je ziher).
@@ -72,7 +72,7 @@ Toliko o kiksih, preizkusil pa sem tudi nekaj metod, ki so se izkazale za zelo d
 ## Backwards planning  
 Slišal sem za metodo, ki jo za svoje operacije uporablja ameriška vojska. Stvar mora biti kar vodotesna, zato sem jo preizkusil na našem projektu. Imenuje se backwards planning (vzvratno planiranje) in deluje tako kot se imenuje. Planiraš po časovnem traku nazaj.  
 
-![backwards planning](./images/backwards_planning.png)
+![backwards planning](images/blog/ackwards_planning.png)
 
 Usedel sem se v udoben naslanjač, zaprl oči ter si predstavljal ključni cilj: večer koncerta. Poskusil sem si zamisliti vse stvari, ki jih bomo potrebovali za izvedbo koncerta ter jih postavli nazaj v čas kon manjše cilje. Nato sem šel preko teh manjših ciljev ter jih razdrobil na še manjše cilje. To sem ponavljal, dokler ni bil projekt sestavljen iz najpreprostejših možnih nalog, smiselno razporejenih po časovnici.  
 Morda mi je ta metoda koristila bolj zato, da nisem bil anskiozen (strah je sam po sebi ugibanje o neskončnih možnostih prihodnih dogodkov), vsekakor pa sem pokril celoten projekt in sem si s časovnico pomagal vse do koncerta. Zadnji teden so jo začeli uporabljati celo ostali člani ekipe.  
