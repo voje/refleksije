@@ -2,31 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on refleksije</title>
-    <link>127.0.0.1/blog/</link>
+    <link>https://voje.github.io/refleksije/blog/</link>
     <description>Recent content in Blogs on refleksije</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl</language>
     <copyright>true</copyright>
-    <lastBuildDate>Fri, 16 Jun 2017 14:32:26 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 13:19:37 +0200</lastBuildDate>
     
-	<atom:link href="127.0.0.1/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://voje.github.io/refleksije/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>test</title>
-      <link>127.0.0.1/blog/test/</link>
-      <pubDate>Fri, 16 Jun 2017 14:32:26 +0200</pubDate>
-      
-      <guid>127.0.0.1/blog/test/</guid>
-      <description>test tes test</description>
-    </item>
     
     <item>
       <title>Organizacija koncerta: to in ono</title>
-      <link>127.0.0.1/blog/javna_prireditev/</link>
+      <link>https://voje.github.io/refleksije/blog/javna_prireditev/</link>
       <pubDate>Fri, 16 Jun 2017 13:19:37 +0200</pubDate>
       
-      <guid>127.0.0.1/blog/javna_prireditev/</guid>
+      <guid>https://voje.github.io/refleksije/blog/javna_prireditev/</guid>
       <description>Pred kratkim sem bil deležen časti, da sodelujem pri organizaciji sorazmerno obsežne javne prireditve. Šlo je za koncert reda približno 800 glav, če štejemo tako nastopajoče kot tudi obiskovalce. Moja vloga? Kot podpredsednik glasbenega društva sem se veselil, da bom lahko opazoval postopek ter se kaj novega naučil.
 Potem pa je predsednica odšla v tujino. In v rokah so se mi znašle vajeti kočije, ki ji je zaenkrat manjkalo še cel kup delov, med drugim koles.</description>
     </item>

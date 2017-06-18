@@ -3,45 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>127.0.0.1/blog/test/</loc>
-    <lastmod>2017-06-16T14:32:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>127.0.0.1/blog/javna_prireditev/</loc>
+    <loc>https://voje.github.io/refleksije/blog/javna_prireditev/</loc>
     <lastmod>2017-06-16T13:19:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>127.0.0.1/post/helloworld/</loc>
+    <loc>https://voje.github.io/refleksije/post/helloworld/</loc>
     <lastmod>2017-06-06T22:19:55+02:00</lastmod>
   </url>
   
   <url>
-    <loc>127.0.0.1/blog/</loc>
-    <lastmod>2017-06-16T14:32:26+02:00</lastmod>
+    <loc>https://voje.github.io/refleksije/blog/</loc>
+    <lastmod>2017-06-16T13:19:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>127.0.0.1/categories/</loc>
+    <loc>https://voje.github.io/refleksije/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>127.0.0.1/post/</loc>
+    <loc>https://voje.github.io/refleksije/post/</loc>
     <lastmod>2017-06-06T22:19:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>127.0.0.1/tags/</loc>
+    <loc>https://voje.github.io/refleksije/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>127.0.0.1/</loc>
-    <lastmod>2017-06-16T14:32:26+02:00</lastmod>
+    <loc>https://voje.github.io/refleksije/</loc>
+    <lastmod>2017-06-16T13:19:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
