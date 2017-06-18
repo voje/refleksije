@@ -8,7 +8,6 @@ canonifyurls = true
 googleAnalytics = ""
 publishDir = "docs"
 
-
 [Params]
     author = "Kristjan voje"
     description = "Študent."

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>refleksije</title>
-    <link>127.0.0.1/</link>
-    <description>Recent content on refleksije</description>
+    <title>Blogs on refleksije</title>
+    <link>127.0.0.1/blog/</link>
+    <description>Recent content in Blogs on refleksije</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl</language>
     <copyright>true</copyright>
     <lastBuildDate>Fri, 16 Jun 2017 14:32:26 +0200</lastBuildDate>
     
-	<atom:link href="127.0.0.1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="127.0.0.1/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -29,15 +29,6 @@
       <guid>127.0.0.1/blog/javna_prireditev/</guid>
       <description>Pred kratkim sem bil deležen časti, da sodelujem pri organizaciji sorazmerno obsežne javne prireditve. Šlo je za koncert reda približno 800 glav, če štejemo tako nastopajoče kot tudi obiskovalce. Moja vloga? Kot podpredsednik glasbenega društva sem se veselil, da bom lahko opazoval postopek ter se kaj novega naučil.
 Potem pa je predsednica odšla v tujino. In v rokah so se mi znašle vajeti kočije, ki ji je zaenkrat manjkalo še cel kup delov, med drugim koles.</description>
-    </item>
-    
-    <item>
-      <title>helloWorld</title>
-      <link>127.0.0.1/post/helloworld/</link>
-      <pubDate>Tue, 06 Jun 2017 22:19:55 +0200</pubDate>
-      
-      <guid>127.0.0.1/post/helloworld/</guid>
-      <description> Pozdravljen svet! </description>
     </item>
     
   </channel>
