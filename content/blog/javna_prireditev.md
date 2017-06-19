@@ -101,7 +101,7 @@ Projekt sem tematsko razdelil na naslednje podnaloge:
 Za vsako od podnalog sem določil enega od članov ekipe. Preveril sem da ve, kaj mora storiti ter da mu naloga ni v breme. Nato pa sem se umaknil ter se vzdržal tega, da bi komurkoli gledal pod prste (v večini primerov mi je uspelo).  
 Če hočeš imeti ekipo, ki ji lahko zaupaš, ji moraš preprosto zaupati. Vem, da sta se sicer v podnaloge vmešavala dirigent in predsednica (v nekaterih primerih je bilo to zelo koristno ... ekhm _stoli_), a v končni fazi so bile vse naloge dobro izvršene, jaz pa sem lahko pazil na celotno sliko projekta, brez da bi se ukvarjal s podrobnostmi.  
 
-
+## Ko pogledam nazaj
 Nazadnje je projekt le uspel. Koncert smo izpeljali, društvo ne bo obubožalo, jaz pa sem po tednu dni prišel nazaj k močem.  
 Ali mi je žal, da sem se spustil v to stvar? Ne. Bilo je dovolj zanimivo, da odtehta neprijetnosti.  
 Ali bi stvar ponovil? Ne v tej vlogi. Nimam prave motivacije. Tekom projekta sem se nakajkrat resno spraševal, če se že grem koordinacijo, kakšna je sploh razlika med takim projektom in pa wow raidom, kjer lahko vodiš 40 igralcev v epsko bitko brez kakršnih koli izgub ali obveznosti.  
@@ -109,7 +109,11 @@ Ali bi stvar ponovil? Ne v tej vlogi. Nimam prave motivacije. Tekom projekta sem
 ![wow raid](images/blog/wow_raid.jpg)
 (virtualna vojska je med drugim tudi odporna na dež)
 
-Koncert je kar navdušil Ločane. In veliko staršev je prišlo ponosno poslušati svoje otroke. Tisti mlajši nastopajoči so dobili enkratno življensko doživetje.  
+<br>
+<br>
+<br>
+Koncert je kar navdušil Ločane. In veliko staršev je prišlo ponosno poslušat svoje otroke. Tisti mlajši nastopajoči so dobili enkratno življensko doživetje.  
+Oh ja, pa še na CV lahko dodam kar impresiven odstavek.  
 Nekaj motivacije sem le imel. 
 
 ![it’s something](images/blog/its_something.jpg)
