@@ -49,36 +49,38 @@ Grafično podobo smo dali v izdelavo 1 mesec pred koncertom. Ups.
 Čez palec bi za naslednji tako velik projekt predlagal, da je medijska podoba  (grafika, napovedno besedilo) __dokončana__ vsaj __dva meseca__ pred dogodkom. Tako zgodaj zato, ker večina medijev deluje tako, da do sredine tekočega meseca zbirajo material za oglase v prihodnjem mesecu.  
 V našem primeru smo imeli koncert v začetku junija. Torej je bilo treba koncert oglaševati v majskem izvodu medijev. Torej je bilo treba medijsko podobo oddati sredi aprila. Nisem prepričan, ali smo takrat sploh že imeli naslov.  
 
-Toliko o času. Rad bi rekel še eno na temo ljudi.  
+Toliko o času. Naslednja postaja so zunanji sodelavci.  
 
-## Ljudem je vseeno  
-Govorim o že prej omenjenih zunanjih izvajalcih. Govorim o osebah, ki so nam pomagale zato, ker so bile za to plačane. Nočem jih narisati kot grupa zlikovcev, ki bi delovali proti našim trudom (čeprav bi se našlo kakšo ime...), hočem povedati le to, da tako kot se odgovornost “porazdeli” že znotraj ekipe, do zunanjih izvajalcev sploh ne pride. Vseeno jim je, kaj se bo zgodilo s projektom kot celoto. To ni njihova stvar, to je stvar organizatorja. Kar je nekako normalno, saj so odrasli ljudje s svojimi težavami. Nimajo razloga, da bi reševali še naše.  
-Moram povedati, da sem bil z večino zunanjih sodelavcev še  kar zadovoljen. Prijetni ljudje. Tekom projekta pa sem opazil, da se je pametno držati naslednjega pravila:
+## Plačancem je vseeno  
+Govorim o že prej omenjenih zunanjih izvajalcih. Saj ne, da bi nam kdo hotel kaj slabega (čeprav bi se našlo kakšo ime...), hočem povedati le to, da tako kot se odgovornost “porazdeli” že znotraj ekipe, do zunanjih izvajalcev sploh ne pride. Vseeno jim je, kaj se bo zgodilo s projektom kot celoto. To ni njihova stvar, to je stvar organizatorja. Preprosto imajo svoje službe in svoje težave ter nimajo razloga, da bi reševali naše. Vsakemu posebej je treba natančno povedati, kaj se od njega pričakuje ter od njega dobiti čim več informacij. Profesionalci imajo seveda ogromno izkušenj na svojem področju. Treba jih je le še motivirati, da jih uporabijo nam v prid.  
+Tekom projekta pa sem opazil, da se je pametno držati naslednjega pravila:
 __vsak dogovor preveri trikrat__.  
 
-* Prvič, ko se pogovarjaš o možnostih in izbereš eno od idej,
-* drugič, kmalu za tem, da preveriš, da sogovornik ni slučajno pozabil na to idejo,
+* Prvič, ko se z izvajalcem začneš dogovarjati,
+* drugič, kmalu za tem, da sogovornik vidi, da misliš resno,
 * tretjič, ko se bliža dogodek (zato, ker ziher je ziher).
 
 To pravilo sva kršila oba z dirigentom. Posledično smo imeli kar nekaj zabavnih presenečenj.  
 
-Toliko o ljudeh. Te so še kolikor toliko obvladljivi, medtem ko narava ni.
+Toliko o ljudeh. Ti so še kolikor toliko obvladljivi, medtem ko narava ni.
 
-## Vreme in ostali zunanji uplivi
+## Vreme
 Tu so roke zares zvezane. Če se odločiš imeti koncert na odprtem, boš lep čas pobožno sedel pred vremensko napovedjo in upal, da meteorologi vedo, kaj delajo.  
 
 ![weather forecast](images/blog/weather_forecast.jpg)  
 
 V našem primeru je bila vremenska napoved krasna. Kratka popoldanska ploha in suh večer.  
 Dan prej se je identična napoved uresničila skoraj do ure natančno, na dan koncerta pa je vreme s svojo zlonamerno prisotnostjo spominjalo na roman Stephena Kinga. Za razliko od Kingovih romanov, se je večer k sreči končal brez drame.  
-Glede koncertov na odprtem bi organizatorju svetoval naslednje: če že moraš igrat igre na srečo, igraj online poker. V primeru, da bi se pa res rad bojeval z vremenom, imej pa vsaj varno rezervo.  
-Mi smo za rezervo imeli za dva dni odmaknjen datum, na isti lokaciji. V primeru prestavitve bi lahko nastalo ogromno težav z varovanjem odra ter ostale opreme, prav tako pa se slabo vreme lahko vleče dlje časa. Predlagal bi rizičen originalni datum ter varen rezervni termin. Varen v smislu prireditve pod streho.  
 
-Toliko o kiksih.  
-Preizkusil sem tudi nekaj metod, ki so se izkazale za koristne.  
+Glede koncertov na odprtem bi organizatorju svetoval naslednje: če že moraš igrat igre na srečo, igraj online poker. V primeru, da bi se rad bojeval z vremenom, pa imej vsaj varno rezervo.  
+Mi smo za rezervo imeli za dva dni odmaknjen datum na isti lokaciji. V primeru prestavitve bi lahko nastalo ogromno težav z varovanjem odra ter ostale opreme, prav tako pa se slabo vreme lahko vleče dlje časa.  
+Predlagal bi rizičen originalni datum ter varen rezervni termin. Varen v smislu prireditve pod streho.  
+
+To so bili z moje strani glavne napake. Nobena ni bila usodna za projekt, le neprijetnosti smo imeli. Ne maram nepotrebnih neprijetnosti.  
+Preizkusil sem tudi nekaj metod, ki so se izkazale za kar uporabne.   
 
 ## Backwards planning  
-Slišal sem za metodo, ki jo za svoje operacije uporablja ameriška vojska. Stvar mora biti kar vodotesna, zato sem jo preizkusil na našem projektu. Imenuje se backwards planning (vzvratno planiranje) in deluje tako kot se imenuje. Planiraš po časovnem traku nazaj.  
+Slišal sem za metodo, ki jo za svoje operacije uporablja ameriška vojska. Če ne nekaj dovolj dobro zanje, bi se dalo reči, da je dobra za kogarkoli. Metodo sem preizkusil na našem projektu. Imenuje se backwards planning (vzvratno planiranje) in deluje tako kot se imenuje. Planiraš po časovnem traku nazaj.  
 
 ![backwards planning](images/blog/backwards_planning.png)
 
@@ -87,6 +89,7 @@ Morda mi je ta metoda koristila bolj zato, da nisem bil anskiozen (strah je sam 
 
 ## Razporeditev nalog
 Do sedaj smo v društvu projekte delali tako, da so šle vse podrobnosti preko dirigenta. Tudi pri tem projektu se je preveč nagaral in želim si, da bi mi ga uspelo bolj razbremeniti z organizacijskimi detajli.  
+Nalog je bilo ogromno, časa vedno manj, projekt pa prevelik. V stroki imamo način reševanja problemov, ki mu pravimo _deli in vladaj_. Vzameš problem, ga razcepiš na logične podprobleme ter jih rešiš. Nato vzameš rešitve in jih sestaviš v celoto. 
 Projekt sem tematsko razdelil na naslednje podnaloge:  
 
 * izvedba koncerta, 
@@ -96,8 +99,17 @@ Projekt sem tematsko razdelil na naslednje podnaloge:
 * birokracija. 
 
 Za vsako od podnalog sem določil enega od članov ekipe. Preveril sem da ve, kaj mora storiti ter da mu naloga ni v breme. Nato pa sem se umaknil ter se vzdržal tega, da bi komurkoli gledal pod prste (v večini primerov mi je uspelo).  
-Če hočeš imeti ekipo, ki ji lahko zaupaš, ji moraš preprosto zaupati. Vem, da sta se sicer v podnaloge vmešavala dirigent in predsednica (v nekaterih primerih je bilo to zelo koristno), a v končni fazi so bile vse naloge dobro izvršene, jaz pa sem lahko sem imel v glavi celotno sliko projekta, namesto da bi se izgubljal v podrobnostih.  
+Če hočeš imeti ekipo, ki ji lahko zaupaš, ji moraš preprosto zaupati. Vem, da sta se sicer v podnaloge vmešavala dirigent in predsednica (v nekaterih primerih je bilo to zelo koristno ... ekhm _stoli_), a v končni fazi so bile vse naloge dobro izvršene, jaz pa sem lahko pazil na celotno sliko projekta, brez da bi se ukvarjal s podrobnostmi.  
 
 
 Nazadnje je projekt le uspel. Koncert smo izpeljali, društvo ne bo obubožalo, jaz pa sem po tednu dni prišel nazaj k močem.  
-Že spet eno tistih doživetij, za katera mi ni žal, da sem jih izkusil, ponavljanje pa se ne zdi preveč smiselno. 
+Ali mi je žal, da sem se spustil v to stvar? Ne. Bilo je dovolj zanimivo, da odtehta neprijetnosti.  
+Ali bi stvar ponovil? Ne v tej vlogi. Nimam prave motivacije. Tekom projekta sem se nakajkrat resno spraševal, če se že grem koordinacijo, kakšna je sploh razlika med takim projektom in pa wow raidom, kjer lahko vodiš 40 igralcev v epsko bitko brez kakršnih koli izgub ali obveznosti.  
+
+![wow raid](images/blog/wow_raid.jpg)
+(virtualna vojska je med drugim tudi odporna na dež)
+
+Koncert je kar navdušil Ločane. In veliko staršev je prišlo ponosno poslušati svoje otroke. Tisti mlajši nastopajoči so dobili enkratno življensko doživetje.  
+Nekaj motivacije sem le imel. 
+
+![it’s something](images/blog/its_something.jpg)
